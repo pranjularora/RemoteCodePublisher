@@ -1,0 +1,3 @@
+﻿  MsgServer.cpp
+c:\project#4\codepublisher\codepublisher\codeanalyzer\msgserver\msgserver.cpp(657): error C2664: 'void ClientHandler::processCommandLineServerArgs(int,char *[])': cannot convert argument 2 from 'std::string []' to 'char *[]'
+  c:\project#4\codepublisher\codepublisher\codeanalyzer\msgserver\msgserver.cpp(657): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast

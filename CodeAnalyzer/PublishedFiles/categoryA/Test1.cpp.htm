@@ -1,0 +1,55 @@
+<!-
+		Test1.cpp - HTML file for Test1.cpp"
+  Published April 4 2017
+  Pranjul Arora, CSE687 - Object Oriented Design, Spring 2017
+-->
+<html>
+<head>
+  <link rel = "stylesheet" href = "..\..\DesignHelper\cssStyle.css" />
+  <script  src="..\..\DesignHelper\HideUnhide.js"></script>
+</head> 
+<h1>Test1.cpp</h1>
+<hr />
+<body>
+<div class="indent">
+<h4>Dependencies:</h4>
+"<a href ="Test1.h.htm">Test1.h</a>"
+"<a href ="Parent.h.htm">Parent.h</a>"
+"<a href ="Test2.cpp.htm">Test2.cpp</a>"
+"<a href ="Test.cpp.htm">Test.cpp</a>"
+"<a href ="Parent.cpp.htm">Parent.cpp</a>"
+</div>
+<hr / > 
+<pre>
+// Test1.cpp
+
+#include "Test1.h"
+#include &lt;iostream&gt;
+#include &lt;sstream&gt;
+
+<input type="button"  id='button4' value="-" onClick="function1('button4','div4')">Test::Test1::Test1() { <div id="div4"></div> }
+
+<input type="button"  id='button5' value="-" onClick="function1('button5','div5')">Test::Test1::~Test1() { <div id="div5"></div> }
+
+template&lt;typename T&gt;
+std::string toString(const T& t)
+<input type="button"  id='button6' value="-" onClick="function1('button6','div6')">{ <div id="div6">
+  std::ostringstream out;
+  out &lt;&lt; t;
+  return out.str();
+</div> }
+
+using namespace Scanner;
+
+#ifdef TEST_TEST1
+
+int main()
+<input type="button"  id='button7' value="-" onClick="function1('button7','div7')">{ <div id="div7">
+  SemiExp se1;
+  std::cout &lt;&lt; "\n  " &lt;&lt; toString&lt;size_t&gt;(se1.length());
+  std::cout &lt;&lt; "\n\n";
+</div> }
+#endif
+</pre>
+</body>
+</html>

@@ -1,0 +1,6 @@
+C:\Project#4\CodePublisher\CodePublisher\CodeAnalyzer\TestFiles-CS\bin\Debug\TestFiles-CS.exe.config
+C:\Project#4\CodePublisher\CodePublisher\CodeAnalyzer\TestFiles-CS\bin\Debug\TestFiles-CS.exe
+C:\Project#4\CodePublisher\CodePublisher\CodeAnalyzer\TestFiles-CS\bin\Debug\TestFiles-CS.pdb
+C:\Project#4\CodePublisher\CodePublisher\CodeAnalyzer\TestFiles-CS\obj\Debug\TestFiles-CS.csprojResolveAssemblyReference.cache
+C:\Project#4\CodePublisher\CodePublisher\CodeAnalyzer\TestFiles-CS\obj\Debug\TestFiles-CS.exe
+C:\Project#4\CodePublisher\CodePublisher\CodeAnalyzer\TestFiles-CS\obj\Debug\TestFiles-CS.pdb
